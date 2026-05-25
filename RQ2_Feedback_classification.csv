@@ -1,0 +1,108 @@
+﻿Paper ID;Title;Feedback provide;Feedback type;Classification rationale
+1;A bidirectional lstm language model for code evaluation and repair;Yes;Procedural;Detects errors + suggests context-based corrections
+2;A Code-Driven Exploration of Key C Language Concepts in a CS1 Class;Yes;Corrective;Indirect feedback through automated assessment, with no student guidance
+3;A Fast and Accurate Machine Learning Autograder for the Breakout Assignment;Yes;Corrective;Feedback for graders/instructors, not for students
+4;A Machine Learning-Based Adaptive Feedback System to Enhance Programming Skill Using Computational Thinking;Yes;Procedural;Personalized and gradual, directs exercises to address deficiencies
+5;A model with iterative trials for correcting logic errors in source code;Yes;Procedural;Iterative and gradual, locates errors + candidate fixes
+6;A multilayer inference engine for individualized tutoring model: adapting learning material and its granularity;Yes;Procedural;Locates error + suggests candidate fixes - step-by-step guidance
+7;A Novel Graph Neural Network-Based Automated Fault Localization Technique for Novice Programs;Yes;Corrective;Only locates faults, without detailed explanation
+8;A Novel Rule-Based Online Judge Recommender System to Promote Computer Programming Education;Yes;Procedural;Personalized: identifies weaknesses and directs specific study activities
+9;A Personalized Learning Framework for Software Vulnerability Detection and Education;Yes;Procedural;Structured in phases with exercises targeted at deficiencies
+10;AceCoder: An Effective Prompting Technique Specialized in Code Generation;No;Not applicable;Does not provide explicit feedback - guides the LLM through examples
+11;AI-Tutoring in Software Engineering Education Experiences with Large Language Models in Programming Assessments;Yes;Procedural;Supports understanding, guides implementation - AI tutor
+12;An AI-based Approach for Grading Students’ Collaboration;Yes;Explanatory;HTML reports for teachers with descriptive analysis
+13;An Evaluation of code2vec Embeddings for Scratch;No;Not applicable;Does not provide feedback - results used as a basis for other tasks
+14;Artificial Intelligence in the Assessment Process of MOOCs using a cloud-computing ecosystem;No;Not applicable;Does not provide direct feedback - personalizes course content
+15;Automated Assessment of Student Self-explanation During Source Code Comprehension;Yes;Explanatory;Identifies and describes gaps in code comprehension
+16;Automatic Creativity Measurement in Scratch Programs Across Modalities;No;Not applicable;Study discusses the possibility of feedback but does not implement it
+17;Automatic Grading of Short Answers Using Large Language Models in Software Engineering Courses;Yes;Corrective;Only immediate performance feedback
+18;Automating Human Tutor-Style Programming Feedback: Leveraging GPT-4 Tutor Model for Hint Generation and GPT-3.5 Student Model for Hint Validation;Yes;Procedural;Human-tutor style with hints to make progress
+19;Beyond Generating Code: Evaluating GPT on a Data Visualization Course;No;Not applicable;Evaluation of GPT, does not provide feedback to students
+20;Can Language Models Employ the Socratic Method? Experiments with Code Debugging;Yes;Procedural;Socratic method - guided questions to identify errors
+21;Can Small Language Models With Retrieval-Augmented Generation Replace Large Language Models When Learning Computer Science?;Yes;Procedural;Supports problem solving with guidance
+22;ChatGPT and Software Testing Education: Promises & Perils;Yes;Explanatory;ChatGPT provides explanatory feedback on answers
+23;ChatGPT in the Classroom: An Analysis of Its Strengths and Weaknesses for Solving Undergraduate Computer Science Questions;Yes;Explanatory;ChatGPT explains answers to varied questions
+24;ChatGPT, Can You Generate Solutions for my Coding Exercises? An Evaluation on its Effectiveness in an undergraduate Java Programming Course.;Yes;Explanatory;Supports understanding and correction - explains generated solutions
+25;CodeTailor: LLM-Powered Personalized Parsons Puzzles for Engaging Support While Learning Programming;Yes;Procedural;Interactive hints while assembling code solutions
+26;Cognitive Complexity and Graph Convolutional Approach Over Control Flow Graph for Software Defect Prediction;No;Not applicable;GCN-DNN model does not provide direct feedback
+27;Collaborative recommendations in online judges using autoencoder neural networks;No;Not applicable;Only task recommendations
+28;Combating ChatGPT-Based Programming Test Cheating — An Evaluation Using Public Problems;No;Not applicable;Evaluates ChatGPT-generated solutions, does not provide feedback
+29;Comparative Studies: Leveraging Large Language Model In Theoritical and Practical Assessment Sample Question-Answer Bank on Programming Related Subjects;Yes;Corrective;Feedback ensures clarity/correctness of generated questions
+30;Comparing computational algorithms for team formation in the classroom: a classroom experience;No;Not applicable;Feedback to verify team formation
+31;Creating a Trajectory for Code Writing: Algorithmic Reasoning Tasks;No;Not applicable;Performance reports without pedagogical guidance
+32;CS1-LLM: Integrating LLMs into CS1 Instruction;Yes;Corrective;Fixes incorrect solutions (correction-focused)
+33;Data Leakage in Notebooks: Static Detection and Better Processes;Yes;Explanatory;Reports indicating where leaks may occur
+34;DEMAx Tool Based on an Improved Model for Semiautomatic C/C++ Source Code Assessment;Yes;Corrective;Identifies code that requires manual assessment
+35;Desirable Characteristics for AI Teaching Assistants in Programming Education;Yes;Procedural;Corrects + suggests personalized improvements
+36;Enhancing Programming Education with Open-Source Generative AI Chatbots;Yes;Procedural;Identifies errors + suggests corrections for self-learning
+37;Enhancing Programming Error Messages in Real Time with Generative AI;Yes;Explanatory;Improves error messages - explanations
+38;EvaAI: A Multi-agent Framework Leveraging Large Language Models for Enhanced Automated Grading;Yes;Procedural;Multi-agent framework for enhanced grading
+39;EvalSeer: An Intelligent Gamified System for Programming Assignments Assessment;Yes;Procedural;Gamified system with detection and suggestions
+40;Evaluating a large language model’s ability to solve programming exercises from an introductory bioinformatics course;No;Not applicable;Evaluates LLM capability, does not provide feedback
+41;Evaluating Copilot on CS1 Code Writing Problems with Suppressed Specifications;No;Not applicable;Evaluates Copilot, does not provide feedback
+42;Evaluating the Impact of ChatGPT on Exercises of a Software Security Course;Yes;Procedural;ChatGPT identifies and fixes vulnerabilities
+43;Exercise Generation and Student Cognitive Ability Research Based on ChatGPT and Rasch Model;No;Not applicable;Generates exercises, not feedback for students
+44;Explainable Artificial Intelligence for Workflow Verification in Visual IoT/Robotics Programming Language Environment;Yes;Procedural;Workflow verification with explainable AI
+45;Explaining Code with a Purpose: An Integrated Approach for Developing Code Comprehension and Prompting Skills;Yes;Corrective;Only indicates whether it passed the test cases
+46;Exploring the Responses of Large Language Models to Beginner Programmers’ Help Requests;Yes;Procedural;Identifies errors + correction suggestions via LLM
+47;Feedback-Generation for Programming Exercises With GPT-4;Yes;Procedural;Locates faults + suggests improvements and corrections
+48;Generating Situated Reflection Triggers About Alternative Solution Paths: A Case Study of Generative AI for Computer-Supported Collaborative Learning;Yes;Procedural;Reflection triggers on alternative solutions
+49;Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors;No;Not applicable;Benchmarking of LLMs, does not provide feedback
+50;Generative AI in the Software Modeling Classroom: An Experience Report with ChatGPT and UML;Yes;Explanatory;Chatbot to refine UML diagrams
+51;GPTutor: A ChatGPT-Powered Programming Tool for Code Explanation;Yes;Explanatory;Detailed and personalized explanations about code
+52;Grading Generative AI-based Assignments Using a 3R Framework;Yes;Corrective;3R framework for grading - correction-focused
+53;Grading Programming Assignments by Summarization;Yes;Corrective;Only presents degree of correctness through a scale
+54;Graph Neural Networks for Mapping Variables Between Programs;No;Not applicable;System corrects directly without feedback to the student
+55;How Useful TutorBot+ is for Teaching and Learning in Programming Courses: a Preliminary Study;Yes;Procedural;TutorBot+ with programming guidance
+56;Identifying Student Profiles Within Online Judge Systems Using Explainable Artificial Intelligence;Yes;Procedural;Insights + study advice, identifies at-risk groups
+57;Intelligent Deep-Learning Tutoring System to Assist Instructors in Programming Courses;Yes;Procedural;Tutor answering questions during coding
+58;Investigating the Role of ChatGPT in Supporting Text-Based Programming Education for Students and Teachers;No;Not applicable;Feedback as research data, not a teaching instrument
+59;Iris: An AI-Driven Virtual Tutor for Computer Science Education;Yes;Procedural;Hints and counter-questions to guide problem solving
+60;LLM Generative AI and Students' Exam Code Evaluation: Qualitative and Quantitative Analysis;Yes;Explanatory;General quality assessment with comments
+61;Machine Learning based Code Assessment Systems;Yes;Procedural;Suggests improvements and points out style or logic errors
+62;Monitoring and Facilitating Students Programming Skill Development using Robotic Process Automation (RPA) and Artificial Intelligence (AI) – A Case Study;Yes;Corrective;Automatic correction + scoring + classification
+63;Monitoring Programming Styles in Massive Open Online Courses Using Source Embedding;No;Not applicable;No feedback
+64;Next-Step Hint Generation for Introductory Programming Using Large Language Models;Yes;Procedural;Step-by-step assistance (next-step hints)
+65;"On the Applicability of Language Models
+to Block-Based Programs";Yes;Procedural;Correction, completion, and suggestions
+66;Online Tutoring and Plagiarism-Aware Authentic Assessment of Database Design Assignments;Yes;Procedural;Formative correction, tutoring
+67;OPTES: A Tool for Behavior-based Student Programming Progress Estimation;Yes;Explanatory;Estimates emotional states - descriptive
+68;Predicting Student Failure using Peer-based Evaluation and Ratings;Yes;Explanatory;Peer assessments to identify errors
+69;Prompt Problems: A New Programming Exercise for the Generative AI Era;Yes;Corrective;Only indicates whether the code passed/failed the tests
+70;Prompting for Comprehension: Exploring the Intersection of Explain in Plain English Questions and Prompt Writing;Yes;Corrective;Only presents generated code + test results
+71;PyDex: Repairing Bugs in Introductory Python Assignments using LLMs;Yes;Procedural;Fixes bugs in Python assignments
+72;Recommendations to Create Programming Exercises to Overcome ChatGPT;No;Not applicable;Recommendations on creating exercises, not feedback
+73;Research on Defect Location Method of C Language Code Based on Deep Learning;Yes;Explanatory;Defect localization to help learners
+74;Revolutionizing eLearning Assessments: The Role of GPT in Crafting Dynamic Content and Feedback;Yes;Procedural;Identifies errors and provides corrective suggestions via prompt
+75;SCG_FBS: A Code Grading Model for Students' Program in Programming Education;Yes;Corrective;Classifies code into quality classes
+76;Speeding Up Automated Assessment of Programming Exercises;Yes;Explanatory;Cache feedback + error identification
+77;Student Mastery or AI Deception? Analyzing ChatGPT's Assessment Proficiency and Evaluating Detection Strategies;No;Not applicable;Old submissions, students not involved
+78;Student Outcome Assessment on Structured Query Language using Rubrics and Automated Feedback Generation;Yes;Procedural;Error indication + extensive improvement suggestions
+79;Student's Academic Performance Prediction in The Programming Techniques Course By Using Machine Learning Methods;No;Not applicable;Prediction for teacher, unclear whether it reaches the student
+80;SynShine: Improved Fixing of Syntax Errors;Yes;Procedural;Syntax error correction suggestions in the IDE
+81;System for Detecting Learner Stuck in Programming Learning;Yes;Explanatory;Feedback for teacher indicating stuck students
+82;The AI Companion in Education: Analyzing the Pedagogical Potential of ChatGPT in Computer Science and Engineering;Yes;Explanatory;Analyzes ChatGPT responses, no educational feedback
+83;Tinkering Behavior Detector Using Multiple Linear Regression: Development of Intelligent Tutoring System for Novice C Programmers;Yes;Procedural;CBM generates constraint-based feedback
+84;Toward semi-automatic misconception discovery using code embeddings;No;Not applicable;Discusses types of feedback but does not implement them
+85;Towards Deep Learning Models for Automatic Computer Program Grading;No;Not applicable;Does not focus on generating feedback for students
+86;Traditional and AI Tools for Teaching Concurrency;Yes;Procedural;Multiple tools with scattered feedback types
+87;Unveiling Hidden Patterns: Clustering Algorithms on C Code embedding;No;Not applicable;Does not perform anything similar to feedback
+88;Using Machine Learning to Identify Patterns in Learner-Submitted Code for the Purpose of Assessment;No;Not applicable;Focus on classification, not on feedback
+89;A Comparative Study of Large Language Models in Programming Education: Accuracy, Efficiency, and Feedback in Student Assignment Grading;Yes;Procedural;Structured natural language with justifications and suggestions
+90;A Knowledge-Component-Based Methodology for Evaluating AI Assistants;Yes;Procedural;Guides improvement + lists missing KCs
+91;A Study of Automated Evaluation of Programming Short-Answer Questions Based on Large Language Models;No;Not applicable;No details about feedback
+92;Advanced Deep Learning Model for Improving Student Evaluation in Programming Education;No;Not applicable;No details about feedback
+93;Ai-Based Automated Grading of Source Code of Introductory Programming Assignments;Yes;Corrective;Criterion-based score - TA assistance, no feedback to the student
+94;Applying Large Language Models to Enhance the Assessment of Parallel Functional Programming Assignments;Yes;Procedural;Specific suggestions to improve code according to the rubric
+95;Automated Assessment of Student Self-Explanation in Code Comprehension Using Pre-Trained Language Models;Yes;Corrective;Evaluates explanation, focuses on automated assessment
+96;Automated Grading Method of Python Code Submissions Using Large Language Models and Machine Learning;Yes;Explanatory;Corrects through tests + LLM analyzes - formative feedback
+97;Automated Grading Through Contrastive Learning: A Gradient Analysis and Feature Ablation Approach;Yes;Explanatory;Points out problematic tokens/snippets + explanation
+98;BeGrading: large language models for enhanced feedback in programming education;Yes;Procedural;Enhanced feedback for programming education via LLMs
+99;CodeLens: A Generative AI Framework for Automated Feedback on SQL Assignments;Yes;Procedural;Concrete guidance without revealing the solution (scaffolding)
+100;Evaluating GPT for use in K-12 Block Based CS Instruction Using a Transpiler and Prompt Engineering;Yes;Explanatory;Assigns a score and diagnoses requirement fulfillment
+101;Evaluating LLMs for Automated Scoring in Formative Assessments;Yes;Explanatory;Scores rubric criteria with justifications
+102;Evaluation of LLM Tools for Feedback Generation in a Course on Concurrent Programming;Yes;Explanatory;Describes possible errors and locations without scaffolding
+103;FastFixer: An Efficient and Effective Approach for Repairing Programming Assignments;No;Not applicable;Generates corrected code without textual feedback to the student
+104;JorGPT: Instructor-Aided Grading of Programming Assignments with Large Language Models (LLMs);Yes;Explanatory;Justifies each rubric dimension + improvement sentence
+105;Rubric Is All You Need: Improving LLM-Based Code Evaluation With Question-Specific Rubrics;Yes;Procedural;Explains unmet criteria + indicates what is missing
+106;Using GenAI to Assess Design Patterns in Student-Written Code;Yes;Explanatory;Explains why a pattern was identified

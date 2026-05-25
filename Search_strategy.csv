@@ -1,0 +1,52 @@
+﻿Database;Search date;Search fields;Search string;Filters / Notes
+Generic reference string;2025-10-15;Title, abstract, keywords;"(""artificial intelligence"" OR ""machine learning"" OR ""deep learning"" OR ""neural networks"" OR ""large language model"" OR ""large language models"" OR ""LLM"" OR ""generative AI"" OR ""GPT"" OR ""ChatGPT"") AND (""automatic assessment"" OR ""automated grading"" OR ""auto-correction"" OR ""evaluation"" OR ""assessment"" OR ""grading"" OR ""testing"") AND (""programming"" OR ""code"" OR ""coding"" OR ""exercises"" OR ""assignments"") AND (""student"" OR teach* OR educat* OR ""curriculum"" OR ""novice"" OR ""undergraduate"")";"Used as the conceptual source for database-specific adaptations. Terms within conceptual blocks were connected by OR; blocks were connected by AND. Publication window: 2021-2025. Peer-reviewed journal and conference papers. English language."
+Scopus;2025-10-15;TITLE-ABS-KEY;"TITLE-ABS-KEY(
+  (""artificial intelligence"" OR ""machine learning"" OR ""deep learning"" OR ""neural networks"" OR ""large language model"" OR ""large language models"" OR ""LLM"" OR ""generative AI"" OR ""GPT"" OR ""ChatGPT"")
+  AND
+  (""automatic assessment"" OR ""automated grading"" OR ""auto-correction"" OR ""evaluation"" OR ""assessment"" OR ""grading"" OR ""testing"")
+  AND
+  (""programming"" OR ""code"" OR ""coding"" OR ""exercises"" OR ""assignments"")
+  AND
+  (""student"" OR teach* OR educat* OR ""curriculum"" OR ""novice"" OR ""undergraduate"")
+)
+AND PUBYEAR > 2020 AND PUBYEAR < 2026";Publication years restricted to 2021-2025. Document types restricted to peer-reviewed journal articles and conference papers. Language restricted to English when available.
+IEEE Xplore;2025-10-15;All Metadata;"(
+  ""All Metadata"":""artificial intelligence"" OR
+  ""All Metadata"":""machine learning"" OR
+  ""All Metadata"":""deep learning"" OR
+  ""All Metadata"":""neural networks"" OR
+  ""All Metadata"":""large language model"" OR
+  ""All Metadata"":""large language models"" OR
+  ""All Metadata"":""LLM"" OR
+  ""All Metadata"":""generative AI"" OR
+  ""All Metadata"":""GPT"" OR
+  ""All Metadata"":""ChatGPT""
+)
+AND
+(
+  ""All Metadata"":""automatic assessment"" OR
+  ""All Metadata"":""automated grading"" OR
+  ""All Metadata"":""auto-correction"" OR
+  ""All Metadata"":""evaluation"" OR
+  ""All Metadata"":""assessment"" OR
+  ""All Metadata"":""grading"" OR
+  ""All Metadata"":""testing""
+)
+AND
+(
+  ""All Metadata"":""programming"" OR
+  ""All Metadata"":""code"" OR
+  ""All Metadata"":""coding"" OR
+  ""All Metadata"":""exercises"" OR
+  ""All Metadata"":""assignments""
+)
+AND
+(
+  ""All Metadata"":""student"" OR
+  ""All Metadata"":teach* OR
+  ""All Metadata"":educat* OR
+  ""All Metadata"":""curriculum"" OR
+  ""All Metadata"":""novice"" OR
+  ""All Metadata"":""undergraduate""
+)";IEEE Xplore was searched using All Metadata because its searchable metadata field does not map one-to-one to Scopus TITLE-ABS-KEY. Publication years restricted to 2021-2025. Content types restricted to journals and conferences when available.
+ACM Digital Library;2025-10-15;Advanced Search: title / abstract / keywords or metadata fields when available;"(""artificial intelligence"" OR ""machine learning"" OR ""deep learning"" OR ""neural networks"" OR ""large language model"" OR ""large language models"" OR ""LLM"" OR ""generative AI"" OR ""GPT"" OR ""ChatGPT"") AND (""automatic assessment"" OR ""automated grading"" OR ""auto-correction"" OR ""evaluation"" OR ""assessment"" OR ""grading"" OR ""testing"") AND (""programming"" OR ""code"" OR ""coding"" OR ""exercises"" OR ""assignments"") AND (""student"" OR teach* OR educat* OR ""curriculum"" OR ""novice"" OR ""undergraduate"")";Applied in ACM Digital Library Advanced Search. Publication years restricted to 2021-2025. Content types restricted to peer-reviewed journal articles and conference papers when available.

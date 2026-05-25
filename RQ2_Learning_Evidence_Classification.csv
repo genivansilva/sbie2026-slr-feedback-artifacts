@@ -1,0 +1,108 @@
+﻿ID;Title;Measures Learning?;Study Design;Measurement Base;Reported Outcome;Robust Evidence?
+1;A bidirectional lstm language model for code evaluation and repair;No;—;—;—;No
+2;A Code-Driven Exploration of Key C Language Concepts in a CS1 Class;No;—;—;—;No
+3;A Comparative Study of Large Language Models in Programming Education: Accuracy, Efficiency, and Feedback in Student Assignment Grading;No;—;—;—;No
+4;A Fast and Accurate Machine Learning Autograder for the Breakout Assignment;No;—;—;—;No
+5;A Knowledge-Component-Based Methodology for Evaluating AI Assistants;Yes;quasi-experiment;proxy_usage;positive;No
+6;A Machine Learning-Based Adaptive Feedback System to Enhance Programming Skill Using Computational Thinking;Yes;quasi-experiment;objective_score;positive;Yes
+7;A model with iterative trials for correcting logic errors in source code;No;—;—;—;No
+8;A multilayer inference engine for individualized tutoring model: adapting learning material and its granularity;Yes;quasi-experiment;course_grade;positive;Yes
+9;A Novel Graph Neural Network-Based Automated Fault Localization Technique for Novice Programs;No;—;—;—;No
+10;A Novel Rule-Based Online Judge Recommender System to Promote Computer Programming Education;No;—;—;—;No
+11;A Personalized Learning Framework for Software Vulnerability Detection and Education;Yes;experience report;perception_only;positive;No
+12;A Study of Automated Evaluation of Programming Short-Answer Questions Based on Large Language Models;No;—;—;—;No
+13;AceCoder: An Effective Prompting Technique Specialized in Code Generation;No;—;—;—;No
+14;Advanced Deep Learning Model for Improving Student Evaluation in Programming Education;No;—;—;—;No
+15;Ai-Based Automated Grading of Source Code of Introductory Programming Assignments;No;—;—;—;No
+16;AI-Tutoring in Software Engineering Education Experiences with Large Language Models in Programming Assessments;Yes;experience report;perception_only;inconclusive;No
+17;An AI-based Approach for Grading Students’ Collaboration;No;—;—;—;No
+18;An Evaluation of code2vec Embeddings for Scratch;No;—;—;—;No
+19;Applying Large Language Models to Enhance the Assessment of Parallel Functional Programming Assignments;No;—;—;—;No
+20;Artificial Intelligence in the Assessment Process of MOOCs using a cloud-computing ecosystem;No;—;—;—;No
+21;Automated Assessment of Student Self-explanation During Source Code Comprehension;No;—;—;—;No
+22;Automated Assessment of Student Self-Explanation in Code Comprehension Using Pre-Trained Language Models;No;—;—;—;No
+23;Automated Grading Method of Python Code Submissions Using Large Language Models and Machine Learning;No;—;—;—;No
+24;Automated Grading Through Contrastive Learning: A Gradient Analysis and Feature Ablation Approach;No;—;—;—;No
+25;Automatic Creativity Measurement in Scratch Programs Across Modalities;No;—;—;—;No
+26;Automatic Grading of Short Answers Using Large Language Models in Software Engineering Courses;No;—;—;—;No
+27;Automating Human Tutor-Style Programming Feedback: Leveraging GPT-4 Tutor Model for Hint Generation and GPT-3.5 Student Model for Hint Validation;No;—;—;—;No
+28;BeGrading: large language models for enhanced feedback in programming education;No;—;—;—;No
+29;Beyond Generating Code: Evaluating GPT on a Data Visualization Course;No;—;—;—;No
+30;Can Language Models Employ the Socratic Method? Experiments with Code Debugging;No;—;—;—;No
+31;Can Small Language Models With Retrieval-Augmented Generation Replace Large Language Models When Learning Computer Science?;No;—;—;—;No
+32;ChatGPT and Software Testing Education: Promises & Perils;No;—;—;—;No
+33;ChatGPT in the Classroom: An Analysis of Its Strengths and Weaknesses for Solving Undergraduate Computer Science Questions;No;—;—;—;No
+34;ChatGPT, Can You Generate Solutions for my Coding Exercises? An Evaluation on its Effectiveness in an undergraduate Java Programming Course.;No;—;—;—;No
+35;CodeLens: A Generative AI Framework for Automated Feedback on SQL Assignments;Yes;experiment;proxy_usage;positive;No
+36;CodeTailor: LLM-Powered Personalized Parsons Puzzles for Engaging Support While Learning Programming;Yes;experiment;objective_score;positive;Yes
+37;Cognitive Complexity and Graph Convolutional Approach Over Control Flow Graph for Software Defect Prediction;No;—;—;—;No
+38;Collaborative recommendations in online judges using autoencoder neural networks;No;—;—;—;No
+39;Combating ChatGPT-Based Programming Test Cheating — An Evaluation Using Public Problems;No;—;—;—;No
+40;Comparative Studies: Leveraging Large Language Model In Theoritical and Practical Assessment Sample Question-Answer Bank on Programming Related Subjects;No;—;—;—;No
+41;Comparing computational algorithms for team formation in the classroom: a classroom experience;Yes;experience report;perception_only;inconclusive;No
+42;Creating a Trajectory for Code Writing: Algorithmic Reasoning Tasks;No;—;—;—;No
+43;CS1-LLM: Integrating LLMs into CS1 Instruction;Yes;experience report;perception_only/course_grade;positive/negative (mixed);No
+44;Data Leakage in Notebooks: Static Detection and Better Processes;No;—;—;—;No
+45;DEMAx Tool Based on an Improved Model for Semiautomatic C/C++ Source Code Assessment;No;—;—;—;No
+46;Desirable Characteristics for AI Teaching Assistants in Programming Education;Yes;experience report;perception_only;inconclusive;No
+47;Enhancing Programming Education with Open-Source Generative AI Chatbots;No;—;—;—;No
+48;Enhancing Programming Error Messages in Real Time with Generative AI;Yes;experience report;proxy_usage;null/negative;No
+49;EvaAI: A Multi-agent Framework Leveraging Large Language Models for Enhanced Automated Grading;No;—;—;—;No
+50;EvalSeer: An Intelligent Gamified System for Programming Assignments Assessment;No;—;—;—;No
+51;Evaluating a large language model’s ability to solve programming exercises from an introductory bioinformatics course;No;—;—;—;No
+52;Evaluating Copilot on CS1 Code Writing Problems with Suppressed Specifications;No;—;—;—;No
+53;Evaluating GPT for use in K-12 Block Based CS Instruction Using a Transpiler and Prompt Engineering;No;—;—;—;No
+54;Evaluating LLMs for Automated Scoring in Formative Assessments;No;—;—;—;No
+55;Evaluating the Impact of ChatGPT on Exercises of a Software Security Course;No;—;—;—;No
+56;Evaluation of LLM Tools for Feedback Generation in a Course on Concurrent Programming;No;—;—;—;No
+57;Exercise Generation and Student Cognitive Ability Research Based on ChatGPT and Rasch Model;No;—;—;—;No
+58;Explainable Artificial Intelligence for Workflow Verification in Visual IoT/Robotics Programming Language Environment;No;—;—;—;No
+59;Explaining Code with a Purpose: An Integrated Approach for Developing Code Comprehension and Prompting Skills;Yes;experience report;perception_only/objective_score;positive/positive;No
+60;Exploring the Responses of Large Language Models to Beginner Programmers’ Help Requests;No;—;—;—;No
+61;FastFixer: An Efficient and Effective Approach for Repairing Programming Assignments;No;—;—;—;No
+62;Feedback-Generation for Programming Exercises With GPT-4;No;—;—;—;No
+63;Generating Situated Reflection Triggers About Alternative Solution Paths: A Case Study of Generative AI for Computer-Supported Collaborative Learning;Yes;experiment;objective_score;null;Yes
+64;Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors;No;—;—;—;No
+65;Generative AI in the Software Modeling Classroom: An Experience Report with ChatGPT and UML;Yes;quasi-experiment;objective_score;positive;Yes
+66;GPTutor: A ChatGPT-Powered Programming Tool for Code Explanation;No;—;—;—;No
+67;Grading Generative AI-based Assignments Using a 3R Framework;No;—;—;—;No
+68;Grading Programming Assignments by Summarization;No;—;—;—;No
+69;Graph Neural Networks for Mapping Variables Between Programs;No;—;—;—;No
+70;How Useful TutorBot+ is for Teaching and Learning in Programming Courses: a Preliminary Study;No;—;—;—;No
+71;Identifying Student Profiles Within Online Judge Systems Using Explainable Artificial Intelligence;No;—;—;—;No
+72;Intelligent Deep-Learning Tutoring System to Assist Instructors in Programming Courses;Yes;quasi-experiment;course_grade;positive;Yes
+73;Investigating the Role of ChatGPT in Supporting Text-Based Programming Education for Students and Teachers;No;—;—;—;No
+74;Iris: An AI-Driven Virtual Tutor for Computer Science Education;No;—;—;—;No
+75;JorGPT: Instructor-Aided Grading of Programming Assignments with Large Language Models (LLMs);No;—;—;—;No
+76;LLM Generative AI and Students' Exam Code Evaluation: Qualitative and Quantitative Analysis;No;—;—;—;No
+77;Machine Learning based Code Assessment Systems;No;—;—;—;No
+78;Monitoring and Facilitating Students Programming Skill Development using Robotic Process Automation (RPA) and Artificial Intelligence (AI) – A Case Study;No;—;—;—;No
+79;Monitoring Programming Styles in Massive Open Online Courses Using Source Embedding;No;—;—;—;No
+80;Next-Step Hint Generation for Introductory Programming Using Large Language Models;No;—;—;—;No
+81;"On the Applicability of Language Models
+to Block-Based Programs";No;—;—;—;No
+82;Online Tutoring and Plagiarism-Aware Authentic Assessment of Database Design Assignments;No;—;—;—;No
+83;OPTES: A Tool for Behavior-based Student Programming Progress Estimation;No;—;—;—;No
+84;Predicting Student Failure using Peer-based Evaluation and Ratings;No;—;—;—;No
+85;Prompt Problems: A New Programming Exercise for the Generative AI Era;No;—;—;—;No
+86;Prompting for Comprehension: Exploring the Intersection of Explain in Plain English Questions and Prompt Writing;No;—;—;—;No
+87;PyDex: Repairing Bugs in Introductory Python Assignments using LLMs;No;—;—;—;No
+88;Recommendations to Create Programming Exercises to Overcome ChatGPT;Yes;experience report;objective_score;positive;No
+89;Research on Defect Location Method of C Language Code Based on Deep Learning;No;—;—;—;No
+90;Revolutionizing eLearning Assessments: The Role of GPT in Crafting Dynamic Content and Feedback;No;—;—;—;No
+91;Rubric Is All You Need: Improving LLM-Based Code Evaluation With Question-Specific Rubrics;No;—;—;—;No
+92;SCG_FBS: A Code Grading Model for Students' Program in Programming Education;No;—;—;—;No
+93;Speeding Up Automated Assessment of Programming Exercises;No;—;—;—;No
+94;Student Mastery or AI Deception? Analyzing ChatGPT's Assessment Proficiency and Evaluating Detection Strategies;No;—;—;—;No
+95;Student Outcome Assessment on Structured Query Language using Rubrics and Automated Feedback Generation;No;—;—;—;No
+96;Student's Academic Performance Prediction in The Programming Techniques Course By Using Machine Learning Methods;No;—;—;—;No
+97;SynShine: Improved Fixing of Syntax Errors;No;—;—;—;No
+98;System for Detecting Learner Stuck in Programming Learning;No;—;—;—;No
+99;The AI Companion in Education: Analyzing the Pedagogical Potential of ChatGPT in Computer Science and Engineering;No;—;—;—;No
+100;Tinkering Behavior Detector Using Multiple Linear Regression: Development of Intelligent Tutoring System for Novice C Programmers;No;—;—;—;No
+101;Toward semi-automatic misconception discovery using code embeddings;No;—;—;—;No
+102;Towards Deep Learning Models for Automatic Computer Program Grading;No;—;—;—;No
+103;Traditional and AI Tools for Teaching Concurrency;No;—;—;—;No
+104;Unveiling Hidden Patterns: Clustering Algorithms on C Code embedding;No;—;—;—;No
+105;Using GenAI to Assess Design Patterns in Student-Written Code;No;—;—;—;No
+106;Using Machine Learning to Identify Patterns in Learner-Submitted Code for the Purpose of Assessment;No;—;—;—;No

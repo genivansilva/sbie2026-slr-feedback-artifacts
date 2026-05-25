@@ -1,0 +1,108 @@
+﻿ID;Title;Assessment Target;Oracle;Evidence Strength;Assessment-Focused?
+1;A bidirectional lstm language model for code evaluation and repair;Error detection;Gold/labeled datasets;Strong;Yes
+2;A Code-Driven Exploration of Key C Language Concepts in a CS1 Class;Not applicable;Human graders;None;No
+3;A Comparative Study of Large Language Models in Programming Education: Accuracy, Efficiency, and Feedback in Student Assignment Grading;Numeric scoring;Human graders;Strong;Yes
+4;A Fast and Accurate Machine Learning Autograder for the Breakout Assignment;Rubric-based rating;Human graders;Strong;Yes
+5;A Knowledge-Component-Based Methodology for Evaluating AI Assistants;Semantic understanding;Human graders;Strong;Yes
+6;A Machine Learning-Based Adaptive Feedback System to Enhance Programming Skill Using Computational Thinking;Semantic understanding;Human graders;Moderate;Yes
+7;A model with iterative trials for correcting logic errors in source code;Error detection;Unit tests / online judges;Strong;Yes
+8;A multilayer inference engine for individualized tutoring model: adapting learning material and its granularity;None reported;None reported;None;No
+9;A Novel Graph Neural Network-Based Automated Fault Localization Technique for Novice Programs;Error detection;Baseline autograder;Strong;Yes
+10;A Novel Rule-Based Online Judge Recommender System to Promote Computer Programming Education;Not applicable;None reported;None;No
+11;A Personalized Learning Framework for Software Vulnerability Detection and Education;Not applicable;None reported;None;No
+12;A Study of Automated Evaluation of Programming Short-Answer Questions Based on Large Language Models;Numeric scoring;Human graders;Strong;Yes
+13;AceCoder: An Effective Prompting Technique Specialized in Code Generation;Binary correctness;Unit tests / online judges;Strong;Yes
+14;Advanced Deep Learning Model for Improving Student Evaluation in Programming Education;Binary correctness;Gold/labeled datasets;Strong;Yes
+15;Ai-Based Automated Grading of Source Code of Introductory Programming Assignments;Rubric-based rating;Human graders;Strong;Yes
+16;AI-Tutoring in Software Engineering Education Experiences with Large Language Models in Programming Assessments;Error detection;Human graders;Strong;Yes
+17;An AI-based Approach for Grading Students’ Collaboration;Other (avaliação de colaboração em projetos);Human graders;Strong;Yes
+18;An Evaluation of code2vec Embeddings for Scratch;Other (classificação de propriedades do código);Gold/labeled datasets;Strong;Yes
+19;Applying Large Language Models to Enhance the Assessment of Parallel Functional Programming Assignments;Rubric-based rating;Human graders;Strong;Yes
+20;Artificial Intelligence in the Assessment Process of MOOCs using a cloud-computing ecosystem;Not applicable;None reported;None;No
+21;Automated Assessment of Student Self-explanation During Source Code Comprehension;Numeric scoring;Human graders;Strong;Yes
+22;Automated Assessment of Student Self-Explanation in Code Comprehension Using Pre-Trained Language Models;Numeric scoring;Human graders;Strong;Yes
+23;Automated Grading Method of Python Code Submissions Using Large Language Models and Machine Learning;Numeric scoring;Human graders;Strong;Yes
+24;Automated Grading Through Contrastive Learning: A Gradient Analysis and Feature Ablation Approach;Numeric scoring;Human graders;Strong;Yes
+25;Automatic Creativity Measurement in Scratch Programs Across Modalities;Numeric scoring;—;—;Yes
+26;Automatic Grading of Short Answers Using Large Language Models in Software Engineering Courses;Error detection;Human graders;Strong;Yes
+27;Automating Human Tutor-Style Programming Feedback: Leveraging GPT-4 Tutor Model for Hint Generation and GPT-3.5 Student Model for Hint Validation;Rubric-based rating;Human graders;Strong;Yes
+28;BeGrading: large language models for enhanced feedback in programming education;Numeric scoring;Mixed oracles;Strong;Yes
+29;Beyond Generating Code: Evaluating GPT on a Data Visualization Course;Error detection;Human graders;Strong;Yes
+30;Can Language Models Employ the Socratic Method? Experiments with Code Debugging;Other (qualidade de resposta de assistente digital);Human graders;Strong;Yes
+31;Can Small Language Models With Retrieval-Augmented Generation Replace Large Language Models When Learning Computer Science?;Numeric scoring;Other;Moderate;Yes
+32;ChatGPT and Software Testing Education: Promises & Perils;Binary correctness;Human graders;Strong;Yes
+33;ChatGPT in the Classroom: An Analysis of Its Strengths and Weaknesses for Solving Undergraduate Computer Science Questions;Binary correctness;Unit tests / online judges;Strong;Yes
+34;ChatGPT, Can You Generate Solutions for my Coding Exercises? An Evaluation on its Effectiveness in an undergraduate Java Programming Course.;Binary correctness;Human graders;Strong;Yes
+35;CodeLens: A Generative AI Framework for Automated Feedback on SQL Assignments;Error detection;Human graders;Strong;Yes
+36;CodeTailor: LLM-Powered Personalized Parsons Puzzles for Engaging Support While Learning Programming;Error detection;Unit tests / online judges;Strong;Yes
+37;Cognitive Complexity and Graph Convolutional Approach Over Control Flow Graph for Software Defect Prediction;Binary correctness;Gold/labeled datasets;Strong;Yes
+38;Collaborative recommendations in online judges using autoencoder neural networks;Numeric scoring;Gold/labeled datasets;Strong;Yes
+39;Combating ChatGPT-Based Programming Test Cheating — An Evaluation Using Public Problems;Binary correctness;Mixed oracles;Strong;Yes
+40;Comparative Studies: Leveraging Large Language Model In Theoritical and Practical Assessment Sample Question-Answer Bank on Programming Related Subjects;Other (geração de gabaritos/scripts de resposta);Human graders;Moderate;Yes
+41;Comparing computational algorithms for team formation in the classroom: a classroom experience;Not applicable;None reported;None;No
+42;Creating a Trajectory for Code Writing: Algorithmic Reasoning Tasks;Numeric scoring;Gold/labeled datasets;Strong;Yes
+43;CS1-LLM: Integrating LLMs into CS1 Instruction;Not applicable;None reported;None;No
+44;Data Leakage in Notebooks: Static Detection and Better Processes;Error detection;Human graders;Strong;Yes
+45;DEMAx Tool Based on an Improved Model for Semiautomatic C/C++ Source Code Assessment;Error detection;Human graders;Strong;Yes
+46;Desirable Characteristics for AI Teaching Assistants in Programming Education;Not applicable;None reported;None;No
+47;Enhancing Programming Education with Open-Source Generative AI Chatbots;Semantic understanding;Human graders;Strong;Yes
+48;Enhancing Programming Error Messages in Real Time with Generative AI;Error detection;None reported;Weak;Yes
+49;EvaAI: A Multi-agent Framework Leveraging Large Language Models for Enhanced Automated Grading;Rubric-based rating;Human graders;Weak;Yes
+50;EvalSeer: An Intelligent Gamified System for Programming Assignments Assessment;Error detection;Unit tests / online judges;Strong;Yes
+51;Evaluating a large language model’s ability to solve programming exercises from an introductory bioinformatics course;Binary correctness;Unit tests / online judges;Strong;Yes
+52;Evaluating Copilot on CS1 Code Writing Problems with Suppressed Specifications;Binary correctness;Unit tests / online judges;Strong;Yes
+53;Evaluating GPT for use in K-12 Block Based CS Instruction Using a Transpiler and Prompt Engineering;Numeric scoring;Baseline autograder;Strong;Yes
+54;Evaluating LLMs for Automated Scoring in Formative Assessments;Numeric scoring;Human graders;Strong;Yes
+55;Evaluating the Impact of ChatGPT on Exercises of a Software Security Course;Error detection;Gold/labeled datasets;Strong;Yes
+56;Evaluation of LLM Tools for Feedback Generation in a Course on Concurrent Programming;Error detection;Human graders;Strong;Yes
+57;Exercise Generation and Student Cognitive Ability Research Based on ChatGPT and Rasch Model;Not applicable;None reported;—;No
+58;Explainable Artificial Intelligence for Workflow Verification in Visual IoT/Robotics Programming Language Environment;Semantic understanding;Gold/labeled datasets;Weak;Yes
+59;Explaining Code with a Purpose: An Integrated Approach for Developing Code Comprehension and Prompting Skills;Binary correctness;Unit tests / online judges;Strong;Yes
+60;Exploring the Responses of Large Language Models to Beginner Programmers’ Help Requests;Error detection;Human graders;Strong;Yes
+61;FastFixer: An Efficient and Effective Approach for Repairing Programming Assignments;Error detection;Unit tests / online judges;Strong;Yes
+62;Feedback-Generation for Programming Exercises With GPT-4;Error detection;Unit tests / online judges;Strong;Yes
+63;Generating Situated Reflection Triggers About Alternative Solution Paths: A Case Study of Generative AI for Computer-Supported Collaborative Learning;Not applicable;None reported;—;No
+64;Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors;Rubric-based rating;Human graders;Strong;Yes
+65;Generative AI in the Software Modeling Classroom: An Experience Report with ChatGPT and UML;Semantic understanding;Human graders;Strong;Yes
+66;GPTutor: A ChatGPT-Powered Programming Tool for Code Explanation;Semantic understanding;Human graders;Weak;Yes
+67;Grading Generative AI-based Assignments Using a 3R Framework;Rubric-based rating;None reported;None;Yes
+68;Grading Programming Assignments by Summarization;Numeric scoring;Gold/labeled datasets;Strong;Yes
+69;Graph Neural Networks for Mapping Variables Between Programs;Error detection;Gold/labeled datasets;Strong;Yes
+70;How Useful TutorBot+ is for Teaching and Learning in Programming Courses: a Preliminary Study;Error detection;None reported;None;Yes
+71;Identifying Student Profiles Within Online Judge Systems Using Explainable Artificial Intelligence;Binary correctness;Gold/labeled datasets;Strong;Yes
+72;Intelligent Deep-Learning Tutoring System to Assist Instructors in Programming Courses;Not applicable;None reported;None;No
+73;Investigating the Role of ChatGPT in Supporting Text-Based Programming Education for Students and Teachers;Numeric scoring;Human graders;Strong;Yes
+74;Iris: An AI-Driven Virtual Tutor for Computer Science Education;Other (filtragem de perguntas irrelevantes);None reported;None;Yes
+75;JorGPT: Instructor-Aided Grading of Programming Assignments with Large Language Models (LLMs);Numeric scoring;Human graders;Strong;Yes
+76;LLM Generative AI and Students' Exam Code Evaluation: Qualitative and Quantitative Analysis;Numeric scoring;Human graders;Strong;Yes
+77;Machine Learning based Code Assessment Systems;Numeric scoring;Baseline autograder;Moderate;Yes
+78;Monitoring and Facilitating Students Programming Skill Development using Robotic Process Automation (RPA) and Artificial Intelligence (AI) – A Case Study;Not applicable;None reported;None;No
+79;Monitoring Programming Styles in Massive Open Online Courses Using Source Embedding;Code-quality evaluation;Human graders;Strong;Yes
+80;Next-Step Hint Generation for Introductory Programming Using Large Language Models;Other (acionabilidade);Mixed oracles;Strong;Yes
+81;"On the Applicability of Language Models
+to Block-Based Programs";Binary correctness;Mixed oracles;Strong;Yes
+82;Online Tutoring and Plagiarism-Aware Authentic Assessment of Database Design Assignments;Binary correctness;Gold/labeled datasets;Weak;Yes
+83;OPTES: A Tool for Behavior-based Student Programming Progress Estimation;Other (estimativa de estados emocionais);Gold/labeled datasets;Strong;Yes
+84;Predicting Student Failure using Peer-based Evaluation and Ratings;Binary correctness;Gold/labeled datasets;Strong;Yes
+85;Prompt Problems: A New Programming Exercise for the Generative AI Era;Binary correctness;Unit tests / online judges;Strong;Yes
+86;Prompting for Comprehension: Exploring the Intersection of Explain in Plain English Questions and Prompt Writing;Binary correctness;Unit tests / online judges;Strong;Yes
+87;PyDex: Repairing Bugs in Introductory Python Assignments using LLMs;Error detection;Mixed oracles;Strong;Yes
+88;Recommendations to Create Programming Exercises to Overcome ChatGPT;Binary correctness;Unit tests / online judges;Strong;Yes
+89;Research on Defect Location Method of C Language Code Based on Deep Learning;Error detection;Gold/labeled datasets;Strong;Yes
+90;Revolutionizing eLearning Assessments: The Role of GPT in Crafting Dynamic Content and Feedback;Error detection;Gold/labeled datasets;Strong;Yes
+91;Rubric Is All You Need: Improving LLM-Based Code Evaluation With Question-Specific Rubrics;Numeric scoring;Human graders;Strong;Yes
+92;SCG_FBS: A Code Grading Model for Students' Program in Programming Education;Binary correctness;Mixed oracles;Strong;Yes
+93;Speeding Up Automated Assessment of Programming Exercises;Binary correctness;Unit tests / online judges;Strong;Yes
+94;Student Mastery or AI Deception? Analyzing ChatGPT's Assessment Proficiency and Evaluating Detection Strategies;Binary correctness;Human graders;Strong;Yes
+95;Student Outcome Assessment on Structured Query Language using Rubrics and Automated Feedback Generation;Numeric scoring;Gold/labeled datasets;Strong;Yes
+96;Student's Academic Performance Prediction in The Programming Techniques Course By Using Machine Learning Methods;Numeric scoring;Gold/labeled datasets;Strong;Yes
+97;SynShine: Improved Fixing of Syntax Errors;Error detection;Gold/labeled datasets;Strong;Yes
+98;System for Detecting Learner Stuck in Programming Learning;Binary correctness;Gold/labeled datasets;Strong;Yes
+99;The AI Companion in Education: Analyzing the Pedagogical Potential of ChatGPT in Computer Science and Engineering;Rubric-based rating;Baseline autograder;Strong;Yes
+100;Tinkering Behavior Detector Using Multiple Linear Regression: Development of Intelligent Tutoring System for Novice C Programmers;Binary correctness;Gold/labeled datasets;Strong;Yes
+101;Toward semi-automatic misconception discovery using code embeddings;Rubric-based rating;Gold/labeled datasets;Strong;Yes
+102;Towards Deep Learning Models for Automatic Computer Program Grading;Numeric scoring;Mixed oracles;Strong;Yes
+103;Traditional and AI Tools for Teaching Concurrency;Error detection;Gold/labeled datasets;Moderate;Yes
+104;Unveiling Hidden Patterns: Clustering Algorithms on C Code embedding;Code-quality evaluation;Human graders;Strong;Yes
+105;Using GenAI to Assess Design Patterns in Student-Written Code;Other (detecção de padrões de projeto).);Human graders;Strong;Yes
+106;Using Machine Learning to Identify Patterns in Learner-Submitted Code for the Purpose of Assessment;Numeric scoring;Human graders;Strong;Yes
