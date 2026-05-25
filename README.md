@@ -10,17 +10,17 @@ The materials support transparency, traceability, and verification of the system
 
 | File | Description |
 |------|-------------|
-| `search_strategy.csv` | Generic search string, database-specific adaptations, searched fields, filters, and search date |
-| `included_studies.csv` | Final list of 106 included studies with metadata such as study ID, title, authors, year, venue, and DOI when available |
-| `educational_context.csv` | Descriptive extraction of educational level, course context, and instructional objective |
-| `rq1_ai_techniques.csv` | Extraction data for AI technique families and system architectures |
-| `rq2_feedback_classification.csv` | Extraction data for feedback presence, feedback type, and classification rationale |
-| `rq2_learning_evidence_classification.csv` | Extraction data for learning evidence, study design, and reported outcomes |
-| `rq3_reliability_classification.csv` | Extraction data for assessment targets, validation oracles, metrics, and reliability evidence |
-| `rq4_barriers_classification.csv` | Extraction data for reported technical, pedagogical, and adoption barriers |
-| `rq4_ethics_classification.csv` | Extraction data for ethical concerns, governance issues, and depth of ethical reporting |
-| `quality_assessment_rubric.csv` | Ten quality criteria with scoring guidance |
-| `quality_scores_by_study.csv` | Study-level quality scores and inclusion status after quality assessment |
+| `Search_strategy.csv` | Generic search string, database-specific adaptations, searched fields, filters, and search date |
+| `Included_studies.csv` | Final list of 106 included studies with metadata such as study ID, title, authors, year, venue, and DOI when available |
+| `Educational_context.csv` | Descriptive extraction of educational level, course context, and instructional objective |
+| `Rq1_ai_techniques.csv` | Extraction data for AI technique families and system architectures |
+| `Rq2_feedback_classification.csv` | Extraction data for feedback presence, feedback type, and classification rationale |
+| `Rq2_learning_evidence_classification.csv` | Extraction data for learning evidence, study design, and reported outcomes |
+| `Rq3_reliability_classification.csv` | Extraction data for assessment targets, validation oracles, metrics, and reliability evidence |
+| `Rq4_barriers_classification.csv` | Extraction data for reported technical, pedagogical, and adoption barriers |
+| `Rq4_ethics_classification.csv` | Extraction data for ethical concerns, governance issues, and depth of ethical reporting |
+| `Quality_assessment_rubric.csv` | Ten quality criteria with scoring guidance |
+| `Quality_scores_by_study.csv` | Study-level quality scores and inclusion status after quality assessment |
 
 Each file uses the study IDs defined in `included_studies.csv` as the main reference key.
 
